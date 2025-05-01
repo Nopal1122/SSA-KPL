@@ -1,0 +1,15 @@
+C:\Users\abiza\OneDrive\Dokumen\SSA-KPL\Kpl_tubes\bin\Debug\net8.0\Kpl_tubes.exe
+C:\Users\abiza\OneDrive\Dokumen\SSA-KPL\Kpl_tubes\bin\Debug\net8.0\Kpl_tubes.deps.json
+C:\Users\abiza\OneDrive\Dokumen\SSA-KPL\Kpl_tubes\bin\Debug\net8.0\Kpl_tubes.runtimeconfig.json
+C:\Users\abiza\OneDrive\Dokumen\SSA-KPL\Kpl_tubes\bin\Debug\net8.0\Kpl_tubes.dll
+C:\Users\abiza\OneDrive\Dokumen\SSA-KPL\Kpl_tubes\bin\Debug\net8.0\Kpl_tubes.pdb
+C:\Users\abiza\OneDrive\Dokumen\SSA-KPL\Kpl_tubes\obj\Debug\net8.0\Kpl_tubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abiza\OneDrive\Dokumen\SSA-KPL\Kpl_tubes\obj\Debug\net8.0\Kpl_tubes.AssemblyInfoInputs.cache
+C:\Users\abiza\OneDrive\Dokumen\SSA-KPL\Kpl_tubes\obj\Debug\net8.0\Kpl_tubes.AssemblyInfo.cs
+C:\Users\abiza\OneDrive\Dokumen\SSA-KPL\Kpl_tubes\obj\Debug\net8.0\Kpl_tubes.csproj.CoreCompileInputs.cache
+C:\Users\abiza\OneDrive\Dokumen\SSA-KPL\Kpl_tubes\obj\Debug\net8.0\Kpl_tubes.sourcelink.json
+C:\Users\abiza\OneDrive\Dokumen\SSA-KPL\Kpl_tubes\obj\Debug\net8.0\Kpl_tubes.dll
+C:\Users\abiza\OneDrive\Dokumen\SSA-KPL\Kpl_tubes\obj\Debug\net8.0\refint\Kpl_tubes.dll
+C:\Users\abiza\OneDrive\Dokumen\SSA-KPL\Kpl_tubes\obj\Debug\net8.0\Kpl_tubes.pdb
+C:\Users\abiza\OneDrive\Dokumen\SSA-KPL\Kpl_tubes\obj\Debug\net8.0\Kpl_tubes.genruntimeconfig.cache
+C:\Users\abiza\OneDrive\Dokumen\SSA-KPL\Kpl_tubes\obj\Debug\net8.0\ref\Kpl_tubes.dll
