@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Kpl_tubes.Models
+namespace Kpl_tubes.API.Model
 {
     public abstract class User
     {
