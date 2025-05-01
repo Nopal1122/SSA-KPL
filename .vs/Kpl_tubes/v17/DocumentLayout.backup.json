@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|c:\\users\\naufal\\documents\\kpl\\kpl_tubes\\kpl_tubes\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|solutionrelative:kpl_tubes\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|c:\\users\\naufal\\documents\\kpl\\kpl_tubes\\kpl_tubes\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|solutionrelative:kpl_tubes\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|c:\\users\\naufal\\documents\\kpl\\kpl_tubes\\kpl_tubes\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|solutionrelative:kpl_tubes\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|c:\\users\\naufal\\documents\\kpl\\kpl_tubes\\kpl_tubes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,19 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Model\\User.cs",
               "RelativeDocumentMoniker": "Kpl_tubes\\Model\\User.cs",
               "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Model\\User.cs",
               "RelativeToolTip": "Kpl_tubes\\Model\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T05:08:49.739Z"
+              "WhenOpened": "2025-05-01T05:08:49.739Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Model\\Book.cs",
               "RelativeDocumentMoniker": "Kpl_tubes\\Model\\Book.cs",
