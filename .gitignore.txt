@@ -1,0 +1,6 @@
+DonaBookApi/bin
+DonaBookApi/obj
+Kpl_tubes/bin
+Kpl_tubes/obj
+.vs
+
