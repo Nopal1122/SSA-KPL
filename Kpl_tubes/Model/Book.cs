@@ -1,57 +1,83 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Kpl_tubes.Model
 {
+    // ENUMS
+    public enum Genre
+    {
+        Fiction,
+        NonFiction,
+        ScienceFiction,
+        Fantasy,
+        Mystery,
+        Romance,
+        Horror,
+        Biography,
+        SelfHelp,
+        History,
+        Unknown
+    }
+
+    public enum Category
+    {
+        AnakAnak,
+        Remaja,
+        Dewasa,
+        Pendidikan,
+        Lainnya
+    }
+
+    public enum BookCondition
+    {
+        Baru,
+        BekasBaik,
+        BekasRusak
+    }
 
     public class Book
     {
         public int Id { get; set; }
         public string Title { get; set; }
         public string Author { get; set; }
-
         public string Publisher { get; set; }
-        public string Genre { get; set; }
-        public string Category { get; set; }
-        public string Condition { get; set; }
+
+        public Genre Genre { get; set; }
+        public Category Category { get; set; }
+        public BookCondition Condition { get; set; }
+
         public int Quantity { get; set; }
         public bool IsVerified { get; set; }
         public string? Review { get; set; }
         public int Rating { get; set; }
 
-        // table untuk rating default berdasarkan genre
-        private static readonly Dictionary<string,int> GenreDefaultRatings = new()
-                    {
-            { "Fiction", 5 },
-            { "Non-Fiction", 4 },
-            { "Science Fiction", 4 },
-            { "Fantasy", 5 },
-            { "Mystery", 4 },
-            { "Romance", 3 },
-            { "Horror", 4 },
-            { "Biography", 4 },
-            { "Self-Help", 3 },
-            { "History", 4 }
-        };
-        public Book(string title, string publisher, string genre, string author, string category, string condition, int quantity, int donorId)
+        // Table-driven rating default berdasarkan genre
+        private static readonly Dictionary<Genre, int> GenreDefaultRatings = new()
         {
-            title = title;
-            publisher = publisher;
-            genre = genre;
-            author = author;
-            category = category;
-            condition = condition;
-            quantity = quantity;
-            donorId = donorId;
+            { Genre.Fiction, 5 },
+            { Genre.NonFiction, 4 },
+            { Genre.ScienceFiction, 4 },
+            { Genre.Fantasy, 5 },
+            { Genre.Mystery, 4 },
+            { Genre.Romance, 3 },
+            { Genre.Horror, 4 },
+            { Genre.Biography, 4 },
+            { Genre.SelfHelp, 3 },
+            { Genre.History, 4 }
+        };
+
+        public Book(string title, string publisher, Genre genre, string author, Category category, BookCondition condition, int quantity, int donorId)
+        {
+            Title = title;
+            Publisher = publisher;
+            Genre = genre;
+            Author = author;
+            Category = category;
+            Condition = condition;
+            Quantity = quantity;
             IsVerified = false;
 
-            //logic digunakan di constructor
-            Rating = GenreDefaultRatings.ContainsKey(genre) ? GenreDefaultRatings[genre] : 0; // default rating is 0 if genre not found
-
-
+            Rating = GenreDefaultRatings.ContainsKey(genre) ? GenreDefaultRatings[genre] : 0;
         }
     }
 }
