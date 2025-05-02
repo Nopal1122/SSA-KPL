@@ -1,0 +1,15 @@
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\Kpl_tubes\obj\Debug\net8.0\Kpl_tubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\Kpl_tubes\obj\Debug\net8.0\Kpl_tubes.AssemblyInfoInputs.cache
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\Kpl_tubes\obj\Debug\net8.0\Kpl_tubes.AssemblyInfo.cs
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\Kpl_tubes\obj\Debug\net8.0\Kpl_tubes.csproj.CoreCompileInputs.cache
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\Kpl_tubes\obj\Debug\net8.0\Kpl_tubes.sourcelink.json
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\Kpl_tubes\bin\Debug\net8.0\Kpl_tubes.exe
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\Kpl_tubes\bin\Debug\net8.0\Kpl_tubes.deps.json
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\Kpl_tubes\bin\Debug\net8.0\Kpl_tubes.runtimeconfig.json
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\Kpl_tubes\bin\Debug\net8.0\Kpl_tubes.dll
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\Kpl_tubes\bin\Debug\net8.0\Kpl_tubes.pdb
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\Kpl_tubes\obj\Debug\net8.0\Kpl_tubes.dll
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\Kpl_tubes\obj\Debug\net8.0\refint\Kpl_tubes.dll
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\Kpl_tubes\obj\Debug\net8.0\Kpl_tubes.pdb
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\Kpl_tubes\obj\Debug\net8.0\Kpl_tubes.genruntimeconfig.cache
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\Kpl_tubes\obj\Debug\net8.0\ref\Kpl_tubes.dll

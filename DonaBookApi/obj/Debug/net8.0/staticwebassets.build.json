@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ry7uvhCpt4qDUwSuPZVrKeRLdTdwzF8tV/HtZL5hU2o=",
+  "Source": "DonaBookApi",
+  "BasePath": "_content/DonaBookApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
