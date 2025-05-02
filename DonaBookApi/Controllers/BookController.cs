@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-using Kpl_tubes.API.Model;
+using Kpl_tubes;
+using Kpl_tubes.Model;
 
 namespace DonaBookApi.Controllers
 {
@@ -9,8 +10,8 @@ namespace DonaBookApi.Controllers
     {
         private static List<Book> books = new List<Book>
         {
-            new Book("Jalani Langkah", "PT Gramedia", "Romance", "Ahmad Yudha Manuhuttu", "Kategori A", "Bagus", 2, 1, true),
-            new Book("Cinta Segitiga", "PT Telkom", "Romance", "Yuki Kato", "Kategori B", "Tidak Layak", 2, 1, false),
+           new Book("Jalani Langkah", "PT Gramedia", Genre.Romance, "Ahmad Yudha Manuhuttu", Category.Dewasa, BookCondition.Baru, 2, 1),
+            new Book("Cinta Segitiga", "PT Telkom", Genre.Romance, "Yuki Kato", Category.Remaja, BookCondition.BekasRusak, 2, 1)
 
         };
 

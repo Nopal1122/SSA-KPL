@@ -13,4 +13,4 @@ namespace Kpl_tubes.Model
             : base(id, name, email, address, password, contact, "donatur") { }
     }
 }
-}
+
