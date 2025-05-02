@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|c:\\users\\naufal\\documents\\kpl\\kpl_tubes\\kpl_tubes\\kpl_tubes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|solutionrelative:kpl_tubes\\kpl_tubes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|c:\\users\\naufal\\documents\\kpl\\kpl_tubes\\kpl_tubes\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|solutionrelative:kpl_tubes\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|c:\\users\\naufal\\documents\\kpl\\kpl_tubes\\kpl_tubes\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|solutionrelative:kpl_tubes\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|c:\\users\\naufal\\documents\\kpl\\kpl_tubes\\kpl_tubes\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|solutionrelative:kpl_tubes\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|c:\\users\\naufal\\documents\\kpl\\kpl_tubes\\kpl_tubes\\data\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|solutionrelative:kpl_tubes\\data\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|c:\\users\\naufal\\documents\\kpl\\kpl_tubes\\kpl_tubes\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|solutionrelative:kpl_tubes\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|c:\\users\\naufal\\documents\\kpl\\kpl_tubes\\kpl_tubes\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EF9702-3BFB-48FD-88B9-0606031905F0}|Kpl_tubes\\Kpl_tubes.csproj|solutionrelative:kpl_tubes\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39FF2005-290E-4C0C-B041-24EF99093922}|DonaBookApi\\DonaBookApi.csproj|c:\\users\\naufal\\documents\\kpl\\kpl_tubes\\donabookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39FF2005-290E-4C0C-B041-24EF99093922}|DonaBookApi\\DonaBookApi.csproj|solutionrelative:donabookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,6 +69,97 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Kpl_tubes\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Services\\UserService.cs",
+              "RelativeToolTip": "Kpl_tubes\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:27:35.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Kpl_tubes\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Services\\IUserService.cs",
+              "RelativeToolTip": "Kpl_tubes\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:26:17.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Kpl_tubes\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Services\\BookService.cs",
+              "RelativeToolTip": "Kpl_tubes\\Services\\BookService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:24:55.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "Kpl_tubes\\Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Services\\IBookService.cs",
+              "RelativeToolTip": "Kpl_tubes\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:23:37.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Books.json",
+              "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Data\\Books.json",
+              "RelativeDocumentMoniker": "Kpl_tubes\\Data\\Books.json",
+              "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Data\\Books.json",
+              "RelativeToolTip": "Kpl_tubes\\Data\\Books.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T09:20:45.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.json",
+              "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Data\\Users.json",
+              "RelativeDocumentMoniker": "Kpl_tubes\\Data\\Users.json",
+              "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Data\\Users.json",
+              "RelativeToolTip": "Kpl_tubes\\Data\\Users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T09:19:59.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kpl_tubes",
+              "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Kpl_tubes.csproj",
+              "RelativeDocumentMoniker": "Kpl_tubes\\Kpl_tubes.csproj",
+              "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Kpl_tubes.csproj",
+              "RelativeToolTip": "Kpl_tubes\\Kpl_tubes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-02T09:19:26.862Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
@@ -50,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\DonaBookApi\\Program.cs",
               "RelativeDocumentMoniker": "DonaBookApi\\Program.cs",
@@ -58,12 +177,11 @@
               "RelativeToolTip": "DonaBookApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T04:13:08.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T04:13:08.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Penerima.cs",
               "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Model\\Penerima.cs",
               "RelativeDocumentMoniker": "Kpl_tubes\\Model\\Penerima.cs",
@@ -71,12 +189,11 @@
               "RelativeToolTip": "Kpl_tubes\\Model\\Penerima.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T04:10:47.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T04:10:47.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Volunteer.cs",
               "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Model\\Volunteer.cs",
               "RelativeDocumentMoniker": "Kpl_tubes\\Model\\Volunteer.cs",
@@ -84,12 +201,11 @@
               "RelativeToolTip": "Kpl_tubes\\Model\\Volunteer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T04:10:45.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T04:10:45.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Model\\User.cs",
               "RelativeDocumentMoniker": "Kpl_tubes\\Model\\User.cs",
@@ -97,12 +213,11 @@
               "RelativeToolTip": "Kpl_tubes\\Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T04:10:27.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T04:10:27.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\DonaBookApi\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "DonaBookApi\\Controllers\\BookController.cs",
@@ -115,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\Kpl_tubes\\Model\\Book.cs",
               "RelativeDocumentMoniker": "Kpl_tubes\\Model\\Book.cs",
@@ -123,12 +238,11 @@
               "RelativeToolTip": "Kpl_tubes\\Model\\Book.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T03:47:36.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T03:47:36.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "BookAPI.cs",
               "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\DonaBookApi\\BookAPI.cs",
               "RelativeDocumentMoniker": "DonaBookApi\\BookAPI.cs",
@@ -136,8 +250,7 @@
               "RelativeToolTip": "DonaBookApi\\BookAPI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T02:10:34.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T02:10:34.953Z"
             }
           ]
         }

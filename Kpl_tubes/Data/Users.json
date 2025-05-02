@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "Name": "Doni Dermawan",
+    "Email": "doni@example.com",
+    "Address": "Jl. Merdeka No. 1",
+    "Password": "donipass",
+    "Contact": "08123456789",
+    "Role": "donatur"
+  },
+  {
+    "Id": 2,
+    "Name": "Rina Penerima",
+    "Email": "rina@example.com",
+    "Address": "Jl. Harapan No. 2",
+    "Password": "rinapass",
+    "Contact": "08987654321",
+    "Role": "penerima"
+  },
+  {
+    "Id": 3,
+    "Name": "Valen Volunteer",
+    "Email": "valen@example.com",
+    "Address": "Jl. Sukarela No. 3",
+    "Password": "valenpass",
+    "Contact": "08781234567",
+    "Role": "volunteer"
+  }
+]

@@ -58,8 +58,7 @@
               "RelativeToolTip": "DonaBookApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T04:13:08.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T04:13:08.564Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "Kpl_tubes\\Model\\Penerima.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T04:10:47.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T04:10:47.778Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "Kpl_tubes\\Model\\Volunteer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T04:10:45.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T04:10:45.777Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "Kpl_tubes\\Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T04:10:27.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T04:10:27.973Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "Kpl_tubes\\Model\\Book.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T03:47:36.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T03:47:36.261Z"
             },
             {
               "$type": "Document",
@@ -132,12 +127,11 @@
               "Title": "BookAPI.cs",
               "DocumentMoniker": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\DonaBookApi\\BookAPI.cs",
               "RelativeDocumentMoniker": "DonaBookApi\\BookAPI.cs",
-              "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\DonaBookApi\\BookAPI.cs*",
-              "RelativeToolTip": "DonaBookApi\\BookAPI.cs*",
+              "ToolTip": "C:\\Users\\Naufal\\Documents\\KPL\\Kpl_tubes\\DonaBookApi\\BookAPI.cs",
+              "RelativeToolTip": "DonaBookApi\\BookAPI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T02:10:34.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T02:10:34.953Z"
             }
           ]
         }
