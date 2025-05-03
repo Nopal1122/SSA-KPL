@@ -12,7 +12,6 @@ namespace Kpl_tubes.Model
         public int Rating { get; set; }
 
         public Penerima(int id, string name, string email, string address, string password, string contact)
-
             : base(id, name, email, address, password, contact, "penerima") { }
     }
 }
