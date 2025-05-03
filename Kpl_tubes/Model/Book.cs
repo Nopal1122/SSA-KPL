@@ -51,6 +51,23 @@ namespace Kpl_tubes.Model
         public string? Review { get; set; }
         public int Rating { get; set; }
 
+        // Constructor tanpa parameter untuk Swagger dan deserialisasi
+        public Book() { }
+
+        // Constructor utama dengan logika rating default
+        public Book(string title, string publisher, Genre genre, string author, Category category, BookCondition condition, int quantity, int donorId)
+        {
+            Title = title;
+            Publisher = publisher;
+            Genre = genre;
+            Author = author;
+            Category = category;
+            Condition = condition;
+            Quantity = quantity;
+            IsVerified = false;
+            Rating = GenreDefaultRatings.ContainsKey(genre) ? GenreDefaultRatings[genre] : 0;
+        }
+
         // Table-driven rating default berdasarkan genre
         private static readonly Dictionary<Genre, int> GenreDefaultRatings = new()
         {
@@ -65,19 +82,5 @@ namespace Kpl_tubes.Model
             { Genre.SelfHelp, 3 },
             { Genre.History, 4 }
         };
-
-        public Book(string title, string publisher, Genre genre, string author, Category category, BookCondition condition, int quantity, int donorId)
-        {
-            Title = title;
-            Publisher = publisher;
-            Genre = genre;
-            Author = author;
-            Category = category;
-            Condition = condition;
-            Quantity = quantity;
-            IsVerified = false;
-
-            Rating = GenreDefaultRatings.ContainsKey(genre) ? GenreDefaultRatings[genre] : 0;
-        }
     }
 }

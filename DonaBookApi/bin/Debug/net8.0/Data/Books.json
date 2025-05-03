@@ -1,0 +1,41 @@
+[
+  {
+    "Id": 1,
+    "Title": "Laskar Pelangi",
+    "Author": "Andrea Hirata",
+    "Publisher": "Bentang Pustaka",
+    "Genre": "Fiction",
+    "Category": "Remaja",
+    "Condition": "BekasBaik",
+    "Quantity": 2,
+    "IsVerified": false,
+    "Review": null,
+    "Rating": 5
+  },
+  {
+    "Id": 2,
+    "Title": "Atomic Habits",
+    "Author": "James Clear",
+    "Publisher": "Penguin",
+    "Genre": "SelfHelp",
+    "Category": "Dewasa",
+    "Condition": "Baru",
+    "Quantity": 1,
+    "IsVerified": true,
+    "Review": "Buku sangat bermanfaat untuk perubahan kebiasaan",
+    "Rating": 3
+  },
+  {
+    "Id": 3,
+    "Title": "Sapiens",
+    "Author": "Yuval Noah Harari",
+    "Publisher": "Harper",
+    "Genre": "History",
+    "Category": "Dewasa",
+    "Condition": "BekasBaik",
+    "Quantity": 1,
+    "IsVerified": false,
+    "Review": null,
+    "Rating": 4
+  }
+]

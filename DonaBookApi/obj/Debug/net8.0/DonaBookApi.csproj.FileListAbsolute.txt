@@ -22,7 +22,6 @@ C:\Users\Naufal\Documents\KPL\Kpl_tubes\DonaBookApi\bin\Debug\net8.0\Swashbuckle
 C:\Users\Naufal\Documents\KPL\Kpl_tubes\DonaBookApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Naufal\Documents\KPL\Kpl_tubes\DonaBookApi\bin\Debug\net8.0\Kpl_tubes.dll
 C:\Users\Naufal\Documents\KPL\Kpl_tubes\DonaBookApi\bin\Debug\net8.0\Kpl_tubes.pdb
-C:\Users\Naufal\Documents\KPL\Kpl_tubes\DonaBookApi\obj\Debug\net8.0\DonaBookApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Naufal\Documents\KPL\Kpl_tubes\DonaBookApi\obj\Debug\net8.0\scopedcss\bundle\DonaBookApi.styles.css
 C:\Users\Naufal\Documents\KPL\Kpl_tubes\DonaBookApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Naufal\Documents\KPL\Kpl_tubes\DonaBookApi\obj\Debug\net8.0\staticwebassets.development.json
@@ -40,3 +39,5 @@ C:\Users\Naufal\Documents\KPL\Kpl_tubes\DonaBookApi\obj\Debug\net8.0\refint\Dona
 C:\Users\Naufal\Documents\KPL\Kpl_tubes\DonaBookApi\obj\Debug\net8.0\DonaBookApi.pdb
 C:\Users\Naufal\Documents\KPL\Kpl_tubes\DonaBookApi\obj\Debug\net8.0\DonaBookApi.genruntimeconfig.cache
 C:\Users\Naufal\Documents\KPL\Kpl_tubes\DonaBookApi\obj\Debug\net8.0\ref\DonaBookApi.dll
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\DonaBookApi\bin\Debug\net8.0\Data\Books.json
+C:\Users\Naufal\Documents\KPL\Kpl_tubes\DonaBookApi\obj\Debug\net8.0\DonaBookApi.MvcApplicationPartsAssemblyInfo.cs
